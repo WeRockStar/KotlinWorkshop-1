@@ -1,4 +1,4 @@
-package com.werockstar.kotlin_workshop
+package com.werockstar.kotlin_workshop.extension
 
 import android.widget.EditText
 

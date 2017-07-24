@@ -9,7 +9,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
 import com.werockstar.kotlin_workshop.R
-import com.werockstar.kotlin_workshop.toText
+import com.werockstar.kotlin_workshop.extension.toText
 
 class MainFragment : Fragment() {
 
